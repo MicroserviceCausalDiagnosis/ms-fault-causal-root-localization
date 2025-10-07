@@ -17,11 +17,12 @@
     <module>gateway-service</module>
     <module>user-service</module>
     <module>order-service</module>
+    <module>causal-analysis</module>
   </modules>
 
   <properties>
-    <maven.compiler.source>21</maven.compiler.source>
-    <maven.compiler.target>21</maven.compiler.target>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <spring-boot.version>3.5.6</spring-boot.version>
     <spring-cloud.version>2025.0.0</spring-cloud.version>
